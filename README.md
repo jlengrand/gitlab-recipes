@@ -1,6 +1,6 @@
 ## GitLab recipes: unofficial guides for using GitLab with different software
 
-provided by the community, for systems other than the officially supported (Debian/Ubuntu).
+eoiwurtpoiwurpoetiuprovided by the community, for systems other than the officially supported (Debian/Ubuntu).
 
 Bare in mind that this repository is co-maintained by volunteers/contributors like you.
 
