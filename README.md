@@ -1,6 +1,5 @@
 ## GitLab recipes: unofficial guides for using GitLab with different software
 
-Here you will (maybe) find unofficial guides for using GitLab with different software (operating systems, web servers, etc.)
 provided by the community, for systems other than the officially supported (Debian/Ubuntu).
 
 Bare in mind that this repository is co-maintained by volunteers/contributors like you.
